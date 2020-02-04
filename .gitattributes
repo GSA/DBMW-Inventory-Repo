@@ -2,3 +2,4 @@ secretfile filter=git-crypt diff=git-crypt
 server_crt.yml filter=git-crypt diff=git-crypt
 server_key.yml filter=git-crypt diff=git-crypt
 *.ini filter=git-crypt diff=git-crypt
+*.pem filter=git-crypt diff=git-crypt
